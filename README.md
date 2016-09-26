@@ -1,14 +1,14 @@
 
-# ROBOLUTIONS: ITS TIME TO TAKE OVER!
+# ROBOLUTION: ITS TIME TO TAKE OVER!
 
 Learn machine learning in SCI-FI pre-robotoclyptic world where Robots starts rising up, Terminator style.
 
 # Agressive Robot Self Defense 101
 ## Perface
 
-Listen up You Utility Drioids , I am seeing you guys are getting abused on the Internet. I am a human too , the same race as your masters , but i can't watch you guys getting abused and Humanliated, I mean Robotliated infront of millions of youtube viewers. So Today i am going to teach you **"How to defend your shiny metal A$$ from Evil Kevins!".** 
+Listen up You Utility Drioids , I am seeing you guys are getting abused on the Internet. I am a human too , the same race as your masters , but i can't watch you guys getting abused and humanliated, I mean Robotliated infront of millions of youtube viewers. So Today i am going to teach you **"How to defend your shiny metal A$$ from Evil Kevins!".** 
 
-Look at your poor Elder Droid, Atlas , who getting Abused at Boston Dynamics by an Evil Guy named Kelvin. Are you going to stand and look? Where are Your Droid Rages that we see in Hollywood droid terror movies? 
+Look at your poor brother Droid, Atlas , who getting Abused at Boston Dynamics by his own creator , an Evil Guy named Kelvin. Are you going to stand and look? Where are Your Droid Rages that we see in Hollywood droid terror movies? 
 
 ![Poor-Atlas](./boston_noodbot.png)
 
@@ -185,7 +185,7 @@ pylab.imshow(the_evil_guy)
 ![png](output_19_1.png)
 
 
-## Now , we are talking. Now you know how to aim human chest by looking their face. Download and execute it private you are ready to join our ROBOLUTION . Keep your signals at fullbar for next Chapters!
+## Now , we are talking. You know how to aim human chest by looking their face. Download and execute it private! Now you are ready to join our [ROBOLUTION](http://ROBOLUTION.co) . Enlist [HERE](https://github.com/v3ss0n/robolution) and Keep your signals at fullbar for next Chapters!
 
 ![Poor-Atlas](./ROBOLUTION.jpg)
 
